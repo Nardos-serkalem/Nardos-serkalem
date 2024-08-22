@@ -4,6 +4,8 @@ Web Developer | Passionate about creating user-friendly web applications | Flask
                                  | ML Enthusiast.
 
 
+- Front-end development with HTML, CSS, Bootsrap and JavaScript
+- Back-end development using python,Flask,  Django and Nodejs
 
 
   
