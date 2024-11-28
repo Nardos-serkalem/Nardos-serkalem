@@ -15,9 +15,7 @@ Web Developer | Passionate about creating user-friendly web applications | Flask
 
 🤖 Developing AI-powered solutions for real-world problems.
 
-🔍 Exploring Neo4j for graph database applications.
 
-📚 Writing blogs/articles on AI and technology trends.
 
 
 
