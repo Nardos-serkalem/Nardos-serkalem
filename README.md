@@ -23,9 +23,9 @@ Tools: Git, GitHub, TensorFlow, PyTorch, REST APIs
 
 Email: nardival08@gmail.com
 
-[GitHub](https://github.com/Nardos-serkalem)
+      [GitHub](https://github.com/Nardos-serkalem)
 
-[LinkedIn](https://www.linkedin.com/in/nardi21)
+      [LinkedIn](https://www.linkedin.com/in/nardi21)
 
 
 
