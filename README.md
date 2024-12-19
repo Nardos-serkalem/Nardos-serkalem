@@ -16,16 +16,9 @@ I design intelligent, user-focused solutions by merging web development with AI 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-00A4A6?style=for-the-badge&logo=api&logoColor=white)
 
-
-📈 What I'm Working On
-
-🌍 Building scalable web applications to bridge user needs and technology.
-
-🤖 Developing AI-powered solutions for real-world problems.
-
 📢 Connect With Me
 
-Email: nardival08@gmail.com
+   Email: nardival08@gmail.com
 
    [GitHub](https://github.com/Nardos-serkalem)
 
