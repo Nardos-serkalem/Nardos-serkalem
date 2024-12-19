@@ -4,6 +4,7 @@ AI Enthusiast | Web Developer | Deep Learning Explorer
 I design intelligent, user-focused solutions by merging web development with AI and machine learning.
 
 🔧 Skills
+## Skills
 
 <table>
   <tr>
@@ -35,14 +36,23 @@ I design intelligent, user-focused solutions by merging web development with AI 
   </tr>
 </table>
 
-### Tools:
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-00A4A6?style=for-the-badge&logo=api&logoColor=white)
+### Tools
 
-
+<table>
+  <tr>
+    <td>
+      ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
+      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    </td>
+    <td>
+      ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+      ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    </td>
+    <td>
+      ![REST API](https://img.shields.io/badge/REST%20API-00A4A6?style=for-the-badge&logo=api&logoColor=white)
+    </td>
+  </tr>
+</table>
 
 📈 What I'm Working On
 
