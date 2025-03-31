@@ -1,37 +1,59 @@
                     Hello, I'm Nardos 👋
 ML engineer | Web Developer | Deep Learning Explorer | Researcher
-### 🔧 My Tech Stack:
 
-- **Languages**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python  
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript  
-  - ![HTML/CSS](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML/CSS  
-  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) PHP  
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) C++  
-  - ![MeTTa](https://img.shields.io/badge/-MeTTa-FF5733?style=flat&logo=meTTa&logoColor=white) MeTTa  
+<div style="display: flex; flex-direction: column; width: 100%;">
 
-- **Frameworks**:
-  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Flask  
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Django  
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React  
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) Node.js  
+  <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <div style="width: 100%;">
+      <strong>Languages:</strong><br>
+      <img src="YOUR_PYTHON_ICON_URL" alt="Python" style="height: 20px; margin-right: 5px;"> Python
+      <img src="YOUR_JAVASCRIPT_ICON_URL" alt="JavaScript" style="height: 20px; margin-right: 5px;"> JavaScript
+      <img src="YOUR_HTMLCSS_ICON_URL" alt="HTML/CSS" style="height: 20px; margin-right: 5px;"> HTML/CSS
+      <img src="YOUR_PHP_ICON_URL" alt="PHP" style="height: 20px; margin-right: 5px;"> PHP
+      <img src="YOUR_CPP_ICON_URL" alt="C++" style="height: 20px; margin-right: 5px;"> C++
+      <img src="YOUR_METTA_ICON_URL" alt="MeTTa" style="height: 20px;"> MeTTa
+    </div>
+  </div>
 
-- **Tools & Libraries**:
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow  
-  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch  
-  - ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) Neo4j  
-  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-Learn  
-  - ![Magpy](https://img.shields.io/badge/-Magpy-008080?style=flat&logo=python&logoColor=white) Magpy  
-  - ![LoRA](https://img.shields.io/badge/-LoRA-1A75E7?style=flat&logo=python&logoColor=white) LoRA  
+  <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <div style="width: 100%;">
+      <strong>Frameworks:</strong><br>
+      <img src="YOUR_FLASK_ICON_URL" alt="Flask" style="height: 20px; margin-right: 5px;"> Flask
+      <img src="YOUR_DJANGO_ICON_URL" alt="Django" style="height: 20px; margin-right: 5px;"> Django
+      <img src="YOUR_REACT_ICON_URL" alt="React" style="height: 20px; margin-right: 5px;"> React
+      <img src="YOUR_NODEJS_ICON_URL" alt="Node.js" style="height: 20px;"> Node.js
+    </div>
+  </div>
 
-- **Database**:
-  - ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) Neo4j  
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL  
+  <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <div style="width: 100%;">
+      <strong>Tools & Libraries:</strong><br>
+      <img src="YOUR_TENSORFLOW_ICON_URL" alt="TensorFlow" style="height: 20px; margin-right: 5px;"> TensorFlow
+      <img src="YOUR_PYTORCH_ICON_URL" alt="PyTorch" style="height: 20px; margin-right: 5px;"> PyTorch
+      <img src="YOUR_NEO4J_ICON_URL" alt="Neo4j" style="height: 20px; margin-right: 5px;"> Neo4j
+      <img src="YOUR_SCIKIT_LEARN_ICON_URL" alt="Scikit-Learn" style="height: 20px; margin-right: 5px;"> Scikit-Learn
+      <img src="YOUR_MAGPY_ICON_URL" alt="Magpy" style="height: 20px; margin-right: 5px;"> Magpy
+      <img src="YOUR_LORA_ICON_URL" alt="LoRA" style="height: 20px;"> LoRA
+    </div>
+  </div>
 
-- **Version Control**:
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git  
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub  
+    <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <div style="width: 100%;">
+      <strong>Databases:</strong><br>
+      <img src="YOUR_NEO4J_ICON_URL" alt="Neo4j" style="height: 20px; margin-right: 5px;"> Neo4j
+      <img src="YOUR_MYSQL_ICON_URL" alt="MySQL" style="height: 20px;"> MySQL
+    </div>
+  </div>
 
+  <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <div style="width: 100%;">
+      <strong>Version Control:</strong><br>
+      <img src="YOUR_GIT_ICON_URL" alt="Git" style="height: 20px; margin-right: 5px;"> Git
+      <img src="YOUR_GITHUB_ICON_URL" alt="GitHub" style="height: 20px;"> GitHub
+    </div>
+  </div>
+
+</div>
 📢 Connect With Me
 
    Email: nardival08@gmail.com
