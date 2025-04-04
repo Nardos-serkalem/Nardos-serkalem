@@ -58,21 +58,9 @@ ML engineer | Web Developer | Deep Learning Explorer | Researcher
   </div>
 </div>
 
-![GitHub Workflow Status](https://github.com/your_username/your_repo/actions/workflows/your_workflow.yml/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/your_username/your_repo)
-![GitHub Repo stars](https://img.shields.io/github/stars/your_username/your_repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your_username/your_repo)
-![GitHub](https://img.shields.io/github/license/your_username/your_repo)
-
-
 📢 Connect With Me
 
-   Email: nardival08@gmail.com
-
-   [GitHub](https://github.com/Nardos-serkalem)
-
-   [LinkedIn](https://www.linkedin.com/in/nardi21)
+   Email: nardival08@gmail.com  [GitHub](https://github.com/Nardos-serkalem) [LinkedIn](https://www.linkedin.com/in/nardi21)
 
 
 
