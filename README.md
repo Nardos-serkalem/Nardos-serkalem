@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nardos S. Shiferaw
+#  Hi, I'm Nardos S. Shiferaw
 
-🚀 **Machine Learning Engineer | Space-Tech Enthusiast**
+ **Machine Learning Engineer | Space-Tech Enthusiast**
 
 Building intelligent systems using **AI, satellite data, and space technologies**.
 
@@ -27,22 +27,17 @@ Building intelligent systems using **AI, satellite data, and space technologies*
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nardos-serkalem\&show_icons=true\&theme=tokyonight\&hide_border=true)
+!(https://github-readme-stats.vercel.app/api?username=Nardos-serkalem\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nardos-serkalem\&theme=tokyonight\&hide_border=true)
 
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nardos-serkalem\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 ## 📫 Connect With Me
 
 * 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: your-linkedin
+* 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/nardi21/)
 
 
 
