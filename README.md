@@ -16,19 +16,28 @@ Building intelligent systems using **AI, satellite data, and space technologies*
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-0a192f?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/-Django-0a192f?style=for-the-badge\&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-0a192f?style=for-the-badge\&logo=flask)
+###  Machine Learning & AI
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0a192f?style=for-the-badge\&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0a192f?style=for-the-badge\&logo=pytorch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a192f?style=for-the-badge\&logo=postgresql)
-![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge\&logo=react)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0a192f?style=for-the-badge\&logo=scikit-learn)
 
+###  ML Models & Algorithms
 
-## 📊 GitHub Stats
+![RNN](https://img.shields.io/badge/-RNN-111827?style=for-the-badge)
+![CNN](https://img.shields.io/badge/-CNN-111827?style=for-the-badge)
+![PINN](https://img.shields.io/badge/-PINN-111827?style=for-the-badge)
 
-!(https://github-readme-stats.vercel.app/api?username=Nardos-serkalem\&show_icons=true\&theme=tokyonight\&hide_border=true)
+###  Backend & Data Systems
 
+![Django](https://img.shields.io/badge/-Django-0a192f?style=for-the-badge\&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-0a192f?style=for-the-badge\&logo=flask)
+![Neo4j](https://img.shields.io/badge/-Neo4j-0a192f?style=for-the-badge\&logo=neo4j)
+![REST API](https://img.shields.io/badge/-REST%20API-0a192f?style=for-the-badge)
+
+###  Data Visualization & Monitoring
+
+![Grafana](https://img.shields.io/badge/-Grafana-0a192f?style=for-the-badge\&logo=grafana)
 
 ## 🔥 Contribution Streak
 
