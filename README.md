@@ -35,8 +35,8 @@ Building intelligent systems using **AI, satellite data, and space technologies*
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@gmail.com](mailto:nardival08@gmail.com)
-* 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/nardi21/)
+* 📧 Email: [nardival08@gmail.com](mailto:nardival08@gmail.com)
+* 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/nardi21/)
 
 
 
